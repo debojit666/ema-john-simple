@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/Header/Header';
 import Shop from './components/Shop/Shop';
 
-
+//main function
 function App() {
   return (
     <div>
